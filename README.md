@@ -19,6 +19,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
