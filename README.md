@@ -26,5 +26,5 @@
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown)&nbsp;
-![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
+![visual studio code](https://img.shields.io/badge/-visual studio code-05122A?style=flat&logo=visual studio code])&nbsp;
 
