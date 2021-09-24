@@ -7,8 +7,5 @@
     <a href="https://www.facebook.com/profile.php?id=100006134021138"><img src="https://img.shields.io/badge/@mahney%20Elbana-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>  
   </p>
   
-- [thenextbigproject.com](https://thenextbigproject.com)
-- [pyblog.xyz](https://pyblog.xyz)
-- [myro.in](https://myro.in)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbmbbmj&hide=TeX&layout=compact" align="left">
