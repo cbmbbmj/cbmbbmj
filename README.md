@@ -17,8 +17,14 @@
 </p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
+
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown)&nbsp;
+![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
 
