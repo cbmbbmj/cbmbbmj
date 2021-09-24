@@ -7,10 +7,15 @@
     <a href="https://www.facebook.com/profile.php?id=100006134021138"><img src="https://img.shields.io/badge/@mahney%20Elbana-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>  
   </p>
   
-<p >
+<p>
 <a href="https://github.com/cbmbbmj">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbmbbmj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbmbbmj&layout=compact&theme=algolia"/>
+  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbmbbmj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+  </p>
+  <p>
+ <a href="https://github.com/cbmbbmj"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbmbbmj&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Dart](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
